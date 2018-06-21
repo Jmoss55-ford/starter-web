@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jonathan Moss Jonathan.moss@me.com @moss
 
 # THANKS
 
