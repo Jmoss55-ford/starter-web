@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 Going to add more batteries for rebasing
+Then more changes from feature branch too. 
 ## Purpose
 
 Sample website with plenty of files for demos
