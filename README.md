@@ -19,3 +19,5 @@ Git.Training To robots
 Please fork this repository and issull pull request for review
 
 This is an emerggency fix for simple stash 
+
+Another emerggency fix.
