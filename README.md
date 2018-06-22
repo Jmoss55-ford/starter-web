@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
+Going to add more batteries for rebasing
 ## Purpose
 
 Sample website with plenty of files for demos
